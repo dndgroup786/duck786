@@ -1,4 +1,4 @@
 # duck786
-My Bitcoin wallet - Donations
+My Bitcoin wallet - Personal
 
-This wallet is for doantions.
+This wallet is for personal transactions.
