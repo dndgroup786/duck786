@@ -1,4 +1,4 @@
 # duck786
-My Bitcoin wallet - Business
+My Bitcoin wallet - Personal
 
-This wallet is for business transactions.
+This wallet is for personal transactions.
