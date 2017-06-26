@@ -1,4 +1,4 @@
 # duck786
-My Bitcoin wallet - Donations
+My Bitcoin wallet - Business
 
-This wallet is for doantions.
+This wallet is for business transactions.
