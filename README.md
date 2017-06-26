@@ -1,2 +1,4 @@
 # duck786
-My Bitcoin wallet
+My Bitcoin wallet - Business
+
+This wallet is for business transactions.
